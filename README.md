@@ -48,98 +48,105 @@
 
 ## 🛠️ Tech Stack
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,go,javascript,typescript,html,css" alt="Languages">
+  <img src="https://skillicons.dev/icons?i=python,go,javascript,typescript,html,css" alt="Python, Go, JavaScript, TypeScript, HTML, CSS">
 </p>
 
-- 🐍 Python
-- 🐹 Go
-- 🟨 JavaScript
-- 🔷 TypeScript
-- 🗄️ SQL
-- 🌐 HTML & CSS
+• **Python** • **Go** • **JavaScript** • **TypeScript** • **SQL** • **HTML** • **CSS**
 
-### 🌐 Frontend Development
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" alt="Frontend Technologies">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" alt="React, Tailwind CSS, Vite">
 </p>
 
-- ⚛️ React.js
-- 🎨 Tailwind CSS
-- 🔄 React Query
-- ⚡ Vite
+• **React.js** • **Tailwind CSS** • **React Query** • **Vite**
 
-### 🏗️ Backend Development
+</td>
+</tr>
+
+<td width="50%" valign="top">
+
+### 🏗️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,go,nodejs" alt="Backend Technologies">
+  <img src="https://skillicons.dev/icons?i=fastapi,go,nodejs" alt="FastAPI, Go, Node.js">
 </p>
 
-- 🚀 FastAPI
-- 🐹 Gin
-- 🟢 Node.js
-- 🔌 REST APIs
-- 🔐 JWT
-- 📋 Pydantic
-- 🗃️ SQLAlchemy
+• **FastAPI** • **Gin** • **Node.js** • **REST APIs**  
+• **JWT** • **Pydantic** • **SQLAlchemy**  
+🤖 **LLM API Integration**
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🗄️ Databases & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,redis,kafka,rabbitmq,docker" alt="Databases and Infrastructure">
+  <img src="https://skillicons.dev/icons?i=postgresql,redis,kafka,rabbitmq,docker" alt="PostgreSQL, Redis, Apache Kafka, RabbitMQ, Docker">
 </p>
 
-- 🐘 PostgreSQL
-- ⚡ Redis
-- 📨 Apache Kafka
-- 🐇 RabbitMQ
-- 🐳 Docker
+• **PostgreSQL** • **Redis** • **Apache Kafka**  
+• **RabbitMQ** • **Docker**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### ☁️ Cloud & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=gcp,git,github,postman,vercel,vscode" alt="Cloud and Tools">
+  <img src="https://skillicons.dev/icons?i=gcp,git,github,postman,vercel,vscode" alt="Google Cloud Platform, Git, GitHub, Postman, Vercel, VS Code">
 </p>
 
-- ☁️ Google Cloud Platform (GCP)
-- 🔧 Git
-- 🐙 GitHub
-- 📮 Postman
-- ▲ Vercel
-- 💻 VS Code
-- 🚀 Render
-
-### 🧠 Core Concepts & Coursework
-
-- 🧩 Data Structures & Algorithms
-- 🏛️ OOPS
-- 🗄️ Database Management Systems (DBMS)
-- 💻 Operating Systems
-- 🌐 Computer Networks
-- 🏗️ System Design
-
-### 🚀 Engineering Focus
-
-<p align="center">
-
-🏗️ <b>Backend Engineering</b>
-&nbsp; • &nbsp;
-🌐 <b>Full-Stack Development</b>
-&nbsp; • &nbsp;
-🧠 <b>Problem Solving</b>
-&nbsp; • &nbsp;
-🔌 <b>API Development</b>
-&nbsp; • &nbsp;
-🗄️ <b>Databases</b>
-&nbsp; • &nbsp;
-⚡ <b>Distributed Systems</b>
-&nbsp; • &nbsp;
-🏗️ <b>System Design</b>
-
+<p>
+  <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex">
 </p>
+
+<p>
+  • <b>Google Cloud Platform (GCP)</b> • <b>Git</b> • <b>GitHub</b><br>
+  • <b>Postman</b> • <b>Vercel</b> • <b>Render</b> • <b>VS Code</b><br>
+  • <b>Claude</b> • <b>Codex</b>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 Computer Science Foundations
+
+<p>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-6C63FF?style=for-the-badge" alt="Data Structures and Algorithms">
+  <img src="https://img.shields.io/badge/Object--Oriented%20Programming-00C2FF?style=for-the-badge" alt="Object-Oriented Programming">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Database%20Management%20Systems-FF6B6B?style=for-the-badge" alt="Database Management Systems">
+  <img src="https://img.shields.io/badge/Operating%20Systems-9B59B6?style=for-the-badge" alt="Operating Systems">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Computer%20Networks-2ECC71?style=for-the-badge" alt="Computer Networks">
+  <img src="https://img.shields.io/badge/System%20Design-F39C12?style=for-the-badge" alt="System Design">
+</p>
+
+</td>
+</tr>
+</table>
 
 
 ## 🧑‍💻 About Me
