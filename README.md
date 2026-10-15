@@ -145,22 +145,5 @@
 
 </p>
 
----
-
-<p align="center">
-
-### 🚀 Build. Learn. Solve. Repeat.
-
-<b>Thanks for visiting my GitHub profile! 👋</b>
-
-<br>
-
-⭐ If you find my projects interesting, feel free to explore my repositories.
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=maalideekshith&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
-
-</p>
 
 
