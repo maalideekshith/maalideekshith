@@ -37,8 +37,7 @@
 
 📊 GitHub Contribution Graph
 
-<p align="center"> <img src="https://ghchart.xqsit94.in/dark:default/maalideekshith" alt="Maali Deekshith's GitHub Contribution Graph" width="100%"> </p>
-
+<p align="center"> <img src="https://ghchart.rshah.org/00FF41/maalideekshith" alt="GitHub Contribution Graph" width="100%"> </p>
 
 ##  GitHub Statistics
 
