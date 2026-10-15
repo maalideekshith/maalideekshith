@@ -40,9 +40,22 @@
   <img src="https://img.shields.io/github/followers/maalideekshith?style=for-the-badge&label=Followers" alt="GitHub Followers">
 </p>
 
+</div>
 
+##  GitHub Statistics
+
+<div align="center">
+
+<a href="https://github.com/maalideekshith">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=maalideekshith&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+</a>
+
+<a href="https://github.com/maalideekshith">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maalideekshith&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages">
+</a>
 
 </div>
+
 
 ## 🛠️ Tech Stack
 
