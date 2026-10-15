@@ -42,6 +42,13 @@
 
 </div>
 
+## 📊 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/maalideekshith" alt="Maali Deekshith's GitHub Contribution Graph" width="100%">
+</p>
+
+
 ##  GitHub Statistics
 
 <div align="center">
