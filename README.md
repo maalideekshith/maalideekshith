@@ -111,11 +111,6 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
-  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex">
-</p>
-
-<p>
   • <b>Google Cloud Platform (GCP)</b> • <b>Git</b> • <b>GitHub</b><br>
   • <b>Postman</b> • <b>Vercel</b> • <b>Render</b> • <b>VS Code</b><br>
 </p>
