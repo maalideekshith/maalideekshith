@@ -40,9 +40,7 @@
   <img src="https://img.shields.io/github/followers/maalideekshith?style=for-the-badge&label=Followers" alt="GitHub Followers">
 </p>
 
-<br>
 
-> 🚀 **Passionate about software engineering, backend systems, full-stack development, artificial intelligence, distributed systems, problem-solving, and building technology that solves real-world problems.**
 
 </div>
 
