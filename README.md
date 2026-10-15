@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Maali Deekshith
 
-### 💻 Computer Science Engineer | Aspiring Software Engineer | Backend Engineering Focus 🚀
+### 💻 Backend | Full Stack Development | AI Agents 🚀
 
 <p>
   <img src="https://img.shields.io/badge/Backend%20Development-6C63FF?style=for-the-badge&logo=serverless&logoColor=white" alt="Backend Development">
