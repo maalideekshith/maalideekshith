@@ -12,9 +12,7 @@ GitHub • LinkedIn
 
 </div>
 
-📊 GitHub Contributions
 
-<p align="center"> <img src="https://ghchart.rshah.org/00FF41/maalideekshith" alt="GitHub Contribution Graph" width="100%"> </p>
 
 ## 📊 GitHub Statistics
 
