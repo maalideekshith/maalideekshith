@@ -16,13 +16,13 @@ GitHub • LinkedIn
 
 <p align="center"> <img src="https://ghchart.rshah.org/00FF41/maalideekshith" alt="GitHub Contribution Graph" width="100%"> </p>
 
-📈 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=maalideekshith&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=maalideekshith&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maalideekshith&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Programming Languages">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maalideekshith&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
