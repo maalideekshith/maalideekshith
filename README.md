@@ -1,55 +1,28 @@
 <div align="center">
 
-# 👋 Hi, I'm Maali Deekshith
+Hi, I'm Maali Deekshith 👋
 
-### 💻 Backend | Full Stack Development | AI Agents 🚀
+BE CSE '27 | Full-Stack AI Development
 
-<p>
-  <img src="https://img.shields.io/badge/Backend%20Development-6C63FF?style=for-the-badge&logo=serverless&logoColor=white" alt="Backend Development">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs">
-</p>
+I'm a Computer Science Engineering student passionate about building scalable backend systems, full-stack applications, and AI-powered solutions.
 
-<p>
-  <img src="https://img.shields.io/badge/Full--Stack%20Development-FF6B6B?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack Development">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Databases-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Databases">
-  <img src="https://img.shields.io/badge/LLM%20APIs-9B59B6?style=for-the-badge&logo=openai&logoColor=white" alt="LLM APIs">
-  <img src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Platform">
-</p>
+I enjoy solving problems, exploring new technologies, and contributing to open-source projects.
 
-<p>
-  <a href="https://github.com/maalideekshith">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/maali-deekshith-b27b992ab/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=maalideekshith&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/maalideekshith?style=for-the-badge&label=Followers" alt="GitHub Followers">
-</p>
+GitHub • LinkedIn
 
 </div>
 
-📊 GitHub Contribution Graph
+📊 GitHub Contributions
 
 <p align="center"> <img src="https://ghchart.rshah.org/00FF41/maalideekshith" alt="GitHub Contribution Graph" width="100%"> </p>
 
-##  GitHub Statistics
+📈 GitHub Statistics
 
 <div align="center">
 
-<a href="https://github.com/maalideekshith">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=maalideekshith&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=maalideekshith&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics">
 
-<a href="https://github.com/maalideekshith">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maalideekshith&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages">
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maalideekshith&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Programming Languages">
 
 </div>
 
