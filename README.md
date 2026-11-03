@@ -109,20 +109,19 @@
 ## 🤝 Let's Connect
 
 <p align="center">
-
-<a href="mailto:maalideekshith@gmail.com">
-  <img src="https://img.shields.io/badge/Email-maalideekshith%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-<a href="https://github.com/maalideekshith">
-  <img src="https://img.shields.io/badge/GitHub-maalideekshith-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<a href="https://www.linkedin.com/in/maali-deekshith-b27b992ab/">
-  <img src="https://img.shields.io/badge/LinkedIn-Maali%20Deekshith-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
+  <a href="mailto:maalideekshith@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/maalideekshith">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/maali-deekshith-b27b992ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
+
 
 
 
