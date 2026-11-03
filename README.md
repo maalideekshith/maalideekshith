@@ -1,16 +1,13 @@
 <div align="center">
 
-Hi, I'm Maali Deekshith 👋
+# 👋 Hi, I'm Maali Deekshith
 
-BE CSE '27 | Full-Stack AI Development
+<br>
 
-I'm a Computer Science Engineering student passionate about building scalable backend systems, full-stack applications, and AI-powered solutions.
-
-I enjoy solving problems, exploring new technologies, and contributing to open-source projects.
-
-GitHub • LinkedIn
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=FULL-STACK+AI+DEVELOPMENT" alt="FULL-STACK AI DEVELOPMENT" />
 
 </div>
+
 
 
 ## 📊 GitHub Statistics
