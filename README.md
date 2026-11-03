@@ -23,6 +23,17 @@ GitHub • LinkedIn
 
 </div>
 
+## 🚀 Merged Pull Requests
+
+<div align="center">
+
+<a href="https://github.com/pulls/reviews?q=is%3Apr+is%3Amerged+author%3Amaalideekshith">
+  <img src="https://img.shields.io/badge/View-Merged%20Pull%20Requests-2ea44f?style=for-the-badge&logo=github" alt="View Merged Pull Requests" />
+</a>
+
+</div>
+
+
 ## 🛠️ Tech Stack
 
 <table>
