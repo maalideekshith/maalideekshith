@@ -124,13 +124,7 @@
 
 </p>
 
-<p align="center">
 
-📧 <b>maalideekshith@gmail.com</b><br>
-💼 Open to <b>Backend Engineering • Full-Stack Development • Software Engineering / SDE Opportunities</b><br>
-🤝 Interested in <b>Collaboration, Projects & Learning</b>
-
-</p>
 
 
 
