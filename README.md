@@ -11,6 +11,8 @@ I enjoy solving problems, exploring new technologies, and contributing to open-s
 GitHub • LinkedIn
 
 </div>
+
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -23,15 +25,7 @@ GitHub • LinkedIn
 
 
 
-## 📊 GitHub Statistics
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=maalideekshith&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maalideekshith&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
 
 
 ## 🛠️ Tech Stack
