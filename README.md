@@ -106,10 +106,11 @@
 </tr>
 </table>
 
+
 ## 🤝 Let's Connect
 
 <p align="center">
-  < a href="mailto:maalideekshith@gmail.com">
+  <a href="mailto:maalideekshith@gmail.com">
     <img src="https://img.shields.io/badge/Email-maalideekshith%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   &nbsp;&nbsp;
@@ -121,6 +122,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-Maali%20Deekshith-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
+
 
 
 
