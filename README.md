@@ -17,12 +17,11 @@ GitHub • LinkedIn
 
 <div align="center">
 
-<img src="./profile/stats.svg" width="49%" alt="GitHub Statistics" />
+<img src="./profile/stats.svg" width="49%" height="200" alt="GitHub Statistics" />
 
-<img src="./profile/top-langs.svg" width="49%" alt="Top Languages" />
+<img src="./profile/top-langs.svg" width="49%" height="200" alt="Top Languages" />
 
 </div>
-
 
 ## 🛠️ Tech Stack
 
