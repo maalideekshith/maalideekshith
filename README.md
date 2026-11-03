@@ -13,9 +13,16 @@ GitHub • LinkedIn
 </div>
 
 
-<img src="https://github-readme-stats-maalideekshith.vercel.app/api?username=maalideekshith&show_icons=true&theme=tokyonight&hide_border=true" />
+## 📊 GitHub Statistics
 
-<img src="https://github-readme-stats-maalideekshith.vercel.app/api/top-langs/?username=maalideekshith&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<div align="center">
+
+<img src="./profile/stats.svg" width="49%" alt="GitHub Statistics" />
+
+<img src="./profile/top-langs.svg" width="49%" alt="Top Languages" />
+
+</div>
+
 
 ## 🛠️ Tech Stack
 
