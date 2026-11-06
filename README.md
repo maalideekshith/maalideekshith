@@ -65,10 +65,10 @@
 ### 🏗️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,go,nodejs" alt="FastAPI, Go, Node.js">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" alt="FastAPI, Node.js">
 </p>
 
-• **FastAPI** • **Gin** • **Node.js** • **REST APIs**  
+• **FastAPI**  • **Node.js** • **REST APIs**  
 • **JWT** • **Pydantic** • **SQLAlchemy**  
 🤖 **LLM API Integration**
 
