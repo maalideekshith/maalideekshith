@@ -24,8 +24,8 @@
 
 <div align="center">
 
-<a href="https://github.com/pulls/reviews?q=is%3Apr+is%3Amerged+author%3Amaalideekshith">
-  <img src="https://img.shields.io/badge/View-Merged%20Pull%20Requests-2ea44f?style=for-the-badge&logo=github" alt="View Merged Pull Requests" />
+<a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Amaalideekshith">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dis%253Apr%2Bis%253Amerged%2Bauthor%253Amaalideekshith&query=%24.total_count&label=Merged%20Pull%20Requests&color=2ea44f&style=for-the-badge&logo=github" alt="Merged Pull Requests" />
 </a>
 
 </div>
