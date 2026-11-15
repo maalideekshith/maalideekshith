@@ -30,6 +30,16 @@
 
 </div>
 
+## 🚀 Open Pull Requests
+
+<div align="center">
+
+<a href="https://github.com/pulls?q=is%3Apr+is%3Aopen+author%3Amaalideekshith">
+  <img src="https://img.shields.io/badge/View-Open%20Pull%20Requests-blue?style=for-the-badge&logo=github" alt="View Open Pull Requests" />
+</a>
+
+</div>
+
 
 ## 🛠️ Tech Stack
 
